@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "testcafe": "^1.1.0",
+    "testcafe-react-selectors": "^3.1.0"
+  },
+  "scripts": {
+    "test": "testcafe --live firefox search-ui-spec.js"
+  }
+}
